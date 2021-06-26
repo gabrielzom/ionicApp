@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ChepaSoft</string>
+    <string name="title_activity_main">ChepaSoft</string>
+    <string name="package_name">chepasoft.sp.gov.br</string>
+    <string name="custom_url_scheme">chepasoft.sp.gov.br</string>
+</resources>
